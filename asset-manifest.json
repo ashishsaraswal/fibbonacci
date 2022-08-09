@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fibbonaccitask/static/css/main.34f54650.css",
+    "main.js": "/fibbonaccitask/static/js/main.3c19e367.js",
+    "index.html": "/fibbonaccitask/index.html",
+    "main.34f54650.css.map": "/fibbonaccitask/static/css/main.34f54650.css.map",
+    "main.3c19e367.js.map": "/fibbonaccitask/static/js/main.3c19e367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34f54650.css",
+    "static/js/main.3c19e367.js"
+  ]
+}
